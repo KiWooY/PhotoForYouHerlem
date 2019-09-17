@@ -1,0 +1,27 @@
+/* INDEX.html*/
+.photo{
+	width: 350px;
+}
+
+.headp{
+	font-size: 20px;
+}
+
+.wa{
+	height: 400px;
+}
+
+.jb{
+	float: left;
+}
+
+.footerimg{
+	width: 50px;
+}
+
+/*CONNEXION.html*/
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
